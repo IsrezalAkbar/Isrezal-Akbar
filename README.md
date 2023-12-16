@@ -18,7 +18,7 @@
 <tr>
 <td>Nama</td>
 <td>Rafli Al Fajar</td>
-<td rowspan="7"><img src="riski.jpeg" width="400"></td>
+<td rowspan="7"><img src="riski.jpeg" width="1000"></td>
 </tr>
 <tr>
 <td>Tempat/Tanggal Lahir</td>
